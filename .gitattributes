@@ -1,0 +1,2 @@
+# Preserve manifest bytes to match the downloadable packages and checksums.
+pets/**/pet.json -text
